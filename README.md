@@ -1,0 +1,1 @@
+Public download site for goProxy binaries.
